@@ -19,11 +19,17 @@ gcc <file>.c -o run && ./run
 ## Layout
 
 ```
-01-nested-loops/    — patterns: triangle, pyramid, chessboard, hollow square
+01-nested-loops/    — patterns: triangle, multiplication table, chessboard,
+                      pyramid, hollow square, christmas tree
 02-2d-arrays/       — fill/print, sums, max-position, transpose, border fill,
-                      row swap, diagonal, every-row-unique
-03-recursion/       — linear, accumulator, reducer, string, recursive bubble sort
-04-pointers/        — basics, const, arithmetic, swap, two-pointer string functions
+                      row swap, diagonal, every-row-unique, random fill+avg
+03-recursion/       — linear, accumulator, reducer, string, recursive bubble
+                      sort, recursive 2D fill/print/max
+04-pointers/        — basics, const, arithmetic, swap, two-pointer string
+                      functions
+extras/             — outside-exam misc: perfect/prime numbers, descending
+                      bubble sort, Caesar cipher, password retry,
+                      positives/negatives split, shuffle, string input
 traces/             — tree-recursion trace walkthroughs (mystery, f2)
 PATTERNS.md         — one-page reference: every template, every gotcha
 ```
