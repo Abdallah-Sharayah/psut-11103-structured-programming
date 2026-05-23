@@ -1,7 +1,6 @@
 # Structured Programming — Final Exam Prep
 
 **Course:** 11103 Structured Programming, PSUT
-**Exam:** May 31, 2026
 
 Solutions to past-exam-style problems across the four topics:
 
